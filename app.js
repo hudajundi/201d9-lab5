@@ -142,7 +142,7 @@ for (var i=1 ; i < dynamicArray.length ;i++ ){
     totMalt= multiply (totMalt,dynamicArray[i])[0];
 
 }
-return [totMalt, 'The numbers 1,2,3,4,5 have a product of 120.' ] ;
+return [totMalt, 'The numbers 1,2,3,4,5 have a product of 120.'] ;
 
 
 }
